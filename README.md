@@ -86,13 +86,6 @@ Para ver la documentación se debe abrir el archivo index.html que se encuentra 
 │                           AppTest.java
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 ## Construido con
 
 * [Maven](https://maven.apache.org/) - Dependency Management
